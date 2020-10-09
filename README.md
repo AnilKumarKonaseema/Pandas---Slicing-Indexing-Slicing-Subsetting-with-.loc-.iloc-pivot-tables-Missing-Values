@@ -1,1 +1,1 @@
-# Pandas---Slicing-Indexing-Slicing-Subsetting-with-.loc-.iloc-pivot-tables-Missing-Values
+### Slicing & Indexing, Slicing & Subsetting with .loc & .iloc, pivot tables, Mising Values using Pandas
